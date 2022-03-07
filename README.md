@@ -1,4 +1,4 @@
-# APIREST CON TYPESCRIPT
+# API REST CON TYPESCRIPT
 ### Base de un API construida con las siguientes tecnologías:
 - Node JS
 - Express Framework
